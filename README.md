@@ -1,4 +1,4 @@
-# AR Cut & Paste
+# AR Copy Tool
 
 An AR+ML prototype that allows cutting elements from your surroundings and pasting them in an image editing software.
 
